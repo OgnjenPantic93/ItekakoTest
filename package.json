@@ -10,6 +10,9 @@
   "author": "Ognjen Pantic",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^12.4.0"
+    "cypress": "^12.14.0"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.8.1"
   }
 }
